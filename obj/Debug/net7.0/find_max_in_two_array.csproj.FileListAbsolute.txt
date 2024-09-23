@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\New folder\find_max_in_two_array\bin\Debug\net7.0\find_max_in_two_array.exe
+C:\Users\ASUS\Desktop\New folder\find_max_in_two_array\bin\Debug\net7.0\find_max_in_two_array.deps.json
+C:\Users\ASUS\Desktop\New folder\find_max_in_two_array\bin\Debug\net7.0\find_max_in_two_array.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder\find_max_in_two_array\bin\Debug\net7.0\find_max_in_two_array.dll
+C:\Users\ASUS\Desktop\New folder\find_max_in_two_array\bin\Debug\net7.0\find_max_in_two_array.pdb
+C:\Users\ASUS\Desktop\New folder\find_max_in_two_array\obj\Debug\net7.0\find_max_in_two_array.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder\find_max_in_two_array\obj\Debug\net7.0\find_max_in_two_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder\find_max_in_two_array\obj\Debug\net7.0\find_max_in_two_array.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder\find_max_in_two_array\obj\Debug\net7.0\find_max_in_two_array.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder\find_max_in_two_array\obj\Debug\net7.0\find_max_in_two_array.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder\find_max_in_two_array\obj\Debug\net7.0\find_max_in_two_array.dll
+C:\Users\ASUS\Desktop\New folder\find_max_in_two_array\obj\Debug\net7.0\refint\find_max_in_two_array.dll
+C:\Users\ASUS\Desktop\New folder\find_max_in_two_array\obj\Debug\net7.0\find_max_in_two_array.pdb
+C:\Users\ASUS\Desktop\New folder\find_max_in_two_array\obj\Debug\net7.0\find_max_in_two_array.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder\find_max_in_two_array\obj\Debug\net7.0\ref\find_max_in_two_array.dll
